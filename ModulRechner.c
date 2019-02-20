@@ -52,7 +52,7 @@ printf("Bitte geben Sie jeweils die Modulnote und die Modulwertung an\n");
 //Ausgabe Liste
   for (k = 0; k < module; k++) {
     printf("Die %d.te Note: %.2f", k+1 , noten[k]);
-    printf(" zählt %d Credits\n", wert[k]);
+    printf(" zaehlt %d Credits\n", wert[k]);
    }
 
 //Credits berechnen
