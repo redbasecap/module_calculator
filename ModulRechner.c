@@ -68,6 +68,6 @@ printf("\n\nDurchschnitt: %.2lf\n",durchschnitt(noten, wert, module));
 //anzahl credits
 printf("Sie haben %d von %d Credits erreicht\n\n\n\n", rcreds, tcreds);
 
-
+system("pause");
 return 0;
 }
